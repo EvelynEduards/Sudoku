@@ -1,2 +1,2 @@
-# Segundo_parcial_programacion
+# Sudoku
 Segundo parcial programacion
