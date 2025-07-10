@@ -1,2 +1,2 @@
 # Sudoku
-Segundo parcial programacion
+Proyecto Python & Pygame
